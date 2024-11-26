@@ -13,4 +13,6 @@
 
 ***If You See A Text On Your LiveConsole Like This It Means Your Ip Is Not Valid This Is A Simple Quick Fix For Now!! Just Make A LocalHost With Your Ip And From There The License Will Get Unlocked Meaning You Will Be Able To Use It In Any Server***
 
-***It Should Look Like This***:
+***It Should Look Like This***
+
+![image](https://github.com/user-attachments/assets/1e8989f6-51de-44a5-9c07-b4be40b96f75)
